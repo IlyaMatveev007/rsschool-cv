@@ -1,0 +1,132 @@
+.main{
+    border: 3px black solid;
+    position: relative;
+    left: 25%;
+    right: 25%;
+    width: 210mm;
+    height: 290mm;
+}
+.main2{
+    background-color: rgb(188, 253, 179);
+    height: 283mm;
+
+}
+.title{
+    background-color: #7286fa;
+    width: 210mm;
+    height: 60mm;
+    position: relative;
+    top: -27px;
+}
+.title1{
+    position: relative;
+    left: 57%;
+    top: 40%;
+    font-size: 40px;
+}
+.information{
+    background-color: #645ca5;
+    height: 290.5mm;
+    width: 75mm;
+    position: relative;
+    top: -67mm;
+    left: 10mm;
+}
+.img{
+    width: 55%;
+    position: relative;
+    left: 16.5mm;
+    top: 5mm;
+}
+.h10{
+    background-color: rgb(50, 207, 255);
+    position: relative;
+    left: 0mm;
+    top: 5mm;
+    width: 61mm;
+    font-size: 32px;
+}
+.h11{
+    background-color: rgb(50, 207, 255);
+    position: relative;
+    left: 14mm;
+    font-size: 32px;
+}
+.contacts{
+    position: relative;
+    top: 5mm;
+    font-size: 20px;
+}
+.contactInformation{
+    position: relative;
+    left: -5mm;
+}
+.h12{
+    background-color: rgb(50, 207, 255);
+    position: relative;
+    left: 11mm;
+    font-size: 32px;
+}
+.h101{
+    background-color: rgb(50, 207, 255);
+    position: relative;
+    top: 5mm;
+    width: 64mm;
+    font-size: 32px;
+}
+.h102{
+    background-color: rgb(50, 207, 255);
+    position: relative;
+    top: 5mm;
+    width: 72mm;
+    font-size: 32px;
+}
+.h13{
+    background-color: rgb(50, 207, 255);
+    position: relative;
+    left: 3mm;
+    font-size: 32px;
+}
+.education{
+    background-color: rgb(181, 241, 252);
+    position: relative;
+    left:  85mm;
+    top: -290mm;
+    width: 125mm;
+    height: 50mm;
+}
+.h21{
+    position: relative;
+    left: 35%;
+    top: 3mm;
+}
+.text1{
+    font-size: 20px;
+    position: relative;
+    left: 3mm;
+}
+.hobbies{
+    background-color: #f5bf4b;
+    position: relative;
+    left:  85mm;
+    top: -290mm;
+    width: 125mm;
+    height: 50mm;
+}
+.hobbiesH2{
+    position: relative;
+    left: 20%;
+    top: 3mm;
+}
+.work{
+    background-color: #f0f790;
+    position: relative;
+    left:  85mm;
+    top: -290mm;
+    width: 125mm;
+    height: 20mm;
+}
+.h131{
+    position: relative;
+    left: 7mm;
+}
